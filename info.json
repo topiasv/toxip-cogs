@@ -1,0 +1,7 @@
+{
+    "author" : ["toxip (toxip#9733)"],
+    "install_msg" : "Thank you for installing my repo! If you have any issues with the cogs, please submit them directly on my cog github repo.",
+    "name" : "toxip-cogs",
+    "short" : "An assorted collection of cogs",
+    "description" : "These are my personal experimental cogs"
+}

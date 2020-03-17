@@ -1,19 +1,19 @@
 {
-	"author": [
-		"toxip"
-	],
-	"description": "Automatically purges messages on a channel on a set interval",
+    "author": [
+        "toxip"
+    ],
+    "description": "Automatically purges messages on a channel on a set interval",
     "short": "Purges messages on set intervals",
-    "permissions" : [
+    "permissions": [
         "manage_messages",
         "send_messages"
     ],
-	"tags": [
+    "tags": [
         "purge",
         "delete",
         "message",
         "timed",
         "timer"
-	],
-	"type": "COG"
+    ],
+    "type": "COG"
 }
